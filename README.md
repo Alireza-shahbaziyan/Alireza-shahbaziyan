@@ -1,5 +1,5 @@
-## Hi there, I’m <a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a> 👋
-
+## Hi there, I’m Alireza shahbaziyan (Ali shahbazi)👋
+# Im a front end developer
 https://cpsms.ir/wp-content/uploads/2018/08/programing.jpg
 
 
