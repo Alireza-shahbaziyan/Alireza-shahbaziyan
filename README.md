@@ -1,8 +1,6 @@
 # Hi there, I’m Alireza shahbaziyan (Ali shahbazi)👋
 <img src="https://i.ibb.co/BNDctY7/lifeLoop.jpg" alt="lifeLoop" border="0"><br>
 ### Im a front end developer
-https://cpsms.ir/wp-content/uploads/2018/08/programing.jpg
-
 
 **Front-end student🌱, currently learning React_js *I like learning and I love programming.* I sometimes work with Python in my free time.
 
