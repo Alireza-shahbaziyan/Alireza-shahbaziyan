@@ -9,7 +9,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Alireza-shahbaziyan">
 </a>
-<a href="https://github.com/rezarastegar2003?tab=followers"><img src="https://img.shields.io/github/followers/rezarastegar2003?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Alireza-shahbaziyan?tab=followers"><img src="https://img.shields.io/github/followers/Alireza-shahbaziyan?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center" border-radius: 12px;>
   <img src="https://user-images.githubusercontent.com/85369490/154224043-b72031a3-55e4-44fd-8250-9b8456f02e3d.gif" alt="Coding gif" width="250">   
