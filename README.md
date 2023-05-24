@@ -3,6 +3,11 @@
 
 **Front-end student🌱, currently learning React_js *I like learning and I love programming.* I sometimes work with Python in my free time.
 
+<a href="https://www.linkedin.com/in/alireza-shahbaziyan-a4b187231/">
+    ###Linkedin page
+</a>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alireza-shahbaziyan&theme=github_dark)](https://github.com/Alireza-shahbaziyan)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-shahbaziyan&theme=github_dark)](https://github.com/Alireza-shahbaziyan)
 
 
