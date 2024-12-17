@@ -12,7 +12,7 @@
 
 # Hi, I'm Alireza Shahbazian! 👋
 
-### 🚀 Front-End Developer | Vue.js Enthusiast | Web Designer
+### Nuxt.js Alchemist | Mixing Code Potions for Web Awesomeness 🔮✨
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with 4 years of experience specializing in Vue 3 and modern web design. I thrive on transforming user ideas into interactive, user-friendly digital experiences using the latest tools and technologies.
 
