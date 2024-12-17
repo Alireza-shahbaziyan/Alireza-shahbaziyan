@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 4 years 
 
 ### 💡 My Projects:
 
-- **[Online Bookstore](#):** A platform for buying and sharing books (Vue 3 + Django).
-- **[YouTube Proxy](#):** A single-page app for accessing YouTube videos in filtered regions (Vue + Tailwind CSS).
-- **[Freedom Tribute](#):** A memorial site built with Vue and Pinia to honor individuals. (Currently private)
+- **[Vanitas]([https://github.com/Alireza-shahbaziyan/gonjeshkaka](https://github.com/Alireza-shahbaziyan/vanitas)):** A platform for buying and sharing books (Vue 3 + Django).
+- **[YouTube Proxy](https://github.com/Alireza-shahbaziyan/YouTube-Proxy-Viewer):** A single-page app for accessing YouTube videos in filtered regions (Vue + Tailwind CSS).
+- **[gonjeshkaka](#):** A memorial site built with Vue and Pinia to honor individuals. (Currently private)
 
 ---
 
