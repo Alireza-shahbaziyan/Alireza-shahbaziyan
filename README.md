@@ -20,28 +20,32 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 4 years 
 
 ### 🛠️ Technologies & Tools:
 
-- **Frameworks & Libraries:** Vue 3, Nuxt.js, Pinia, Tailwind CSS, Bootstrap
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Version Control:** Git, GitHub
-- **Other Tools:** Webpack, Vite, Figma
+- **Frameworks & Libraries:** React.js, Next.js, Vue 3, Nuxt.js, Pinia, Redux, Zustand, Tailwind CSS, Bootstrap  
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS  
+- **Version Control:** Git, GitHub, GitLab  
+- **Build Tools & Module Bundlers:** Webpack, Vite, Parcel  
+- **Testing & Debugging:** Jest, React Testing Library, Cypress, Vitest  
+- **Other Tools:** Figma, Postman, Storybook, ESLint, Prettier  
 
 ---
 
 ### 🌟 What I Do:
 
-- Build elegant and efficient front-end applications
-- Optimize performance for seamless user experiences
-- Collaborate with back-end developers to deliver end-to-end solutions
+- Build **scalable and maintainable** front-end applications using **React, Vue, and Vanilla JavaScript**  
+- Optimize performance for **fast, responsive, and accessible** web experiences  
+- Collaborate with **back-end developers** to deliver seamless end-to-end solutions  
+- Implement **state management** with Redux, Zustand, Pinia, or Composition API  
+- Create **reusable UI components** and **design systems** for consistency across applications  
 
 ---
 
 ### 🌱 Currently Learning:
 
-- Advanced TypeScript
-- Server-side rendering with Nuxt.js
+- **Advanced TypeScript** for better scalability and maintainability  
+- **Server-side rendering (SSR)** and static site generation (SSG) with **Next.js & Nuxt.js**  
+- **Web performance optimization** techniques for **faster load times**  
 
 ---
-
 ### 💡 My Projects:
 
 - **[Vanitas]([https://github.com/Alireza-shahbaziyan/gonjeshkaka](https://github.com/Alireza-shahbaziyan/vanitas)):** A platform for buying and sharing books (Vue 3 + Django).
