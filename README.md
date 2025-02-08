@@ -1,4 +1,4 @@
-## in the heart of every man lies a kingdom; our quest, then, is not conquest, but the unveiling of our own majesty
+# Virtu vince fortuna
 
 <p align="center" border-radius: 12px;>
   <img src="https://user-images.githubusercontent.com/85369490/154224043-b72031a3-55e4-44fd-8250-9b8456f02e3d.gif" alt="Coding gif" width="250">   
