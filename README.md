@@ -1,4 +1,4 @@
-# 🔥Virtu vince fortuna🔥
+#just a web developer
 
 <p align="center" border-radius: 12px;>
   <img src="https://user-images.githubusercontent.com/85369490/154224043-b72031a3-55e4-44fd-8250-9b8456f02e3d.gif" alt="Coding gif" width="250">   
@@ -36,3 +36,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 4 years 
 - Collaborate with **back-end developers** to deliver seamless end-to-end solutions  
 - Implement **state management** with Redux, Zustand, Pinia, or Composition API  
 - Create **reusable UI components** and **design systems** for consistency across applications  
+
+
+## 🔥Virtu vince fortuna🔥
