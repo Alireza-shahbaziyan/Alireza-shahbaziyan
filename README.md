@@ -12,16 +12,16 @@
 
 # Hi, I'm Alireza Shahbazian! 👋
 
-### Nuxt.js Alchemist | Mixing Code Potions for Web Awesomeness 🔮✨
+### Javascript Alchemist | Mixing Code Potions for Web Awesomeness 🔮✨
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with 4 years of experience specializing in Vue 3 and modern web design. I thrive on transforming user ideas into interactive, user-friendly digital experiences using the latest tools and technologies.
+Welcome to my GitHub profile! I'm a passionate front-end developer with 4 years of experience specializing in React and modern web design. I thrive on transforming user ideas into interactive, user-friendly digital experiences using the latest tools and technologies.
 
 ---
 
 ### 🛠️ Technologies & Tools:
 
-- **Frameworks & Libraries:** React.js, Next.js, Vue 3, Nuxt.js, Pinia, Redux, Zustand, Tailwind CSS, Bootstrap  
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS  
+- **Frameworks & Libraries:** React.js, Next.js, Zustand, Tailwind CSS, Bootstrap  
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 - **Version Control:** Git, GitHub, GitLab  
 - **Build Tools & Module Bundlers:** Webpack, Vite, Parcel  
 - **Testing & Debugging:** Jest, React Testing Library, Cypress, Vitest  
